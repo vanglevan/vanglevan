@@ -1,19 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm Vãng LÊ, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197473.png" width="13"/> <b>Hue, Vietnam</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197473.png" width="13"/> <b>Da Nang, Vietnam</b>.</p>
 
-- 🔭 I’m currently working on **fsoft**
-
-- 🌱 I’m currently learning **Microsoft Azure Developer**
-
-- 👯 I’m looking to collaborate on **fullstack projects**
-
-- 🤝 I’m looking for help with **fsoft**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vanglevan](https://github.com/vanglevan)
-
-- 📫 How to reach me **a1lvvang.0503@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+- See my [full about page here](http://vanglevan.io/about).
+- 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
+- 💬 Ask me about frontend: [ReactJS](https://reactjs.org/), [Angular](https://angular.io/) and backend: [NodeJS](https://nodejs.org/en/)
+- 📫 How to reach me: `a1lvvang.0503@gmail.com`
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I think I am funny
 
 <h3>Things I code with</h3>
 <p>
