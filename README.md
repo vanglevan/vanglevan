@@ -61,9 +61,6 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://vanglevan.io" target="_blank">
-    <img alt="My website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
  <a href="https://linkedin.com/in/vanglevan" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -73,4 +70,7 @@
  <a href="https://dev.to/vanglevan" target="_blank">
   <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
  </a>
+  <a href="https://www.instagram.com/vang.vanle" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
