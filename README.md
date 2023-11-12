@@ -1,14 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Vãng LÊ, fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197473.png" width="13"/> <b>Da Nang, Vietnam</b>.</p>
-<p>This is the place where I opensource stuff and break things :rofl:</p>
+<p>Welcome to my page! </br> I'm Vãng LÊ, full-stack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197473.png" width="13"/> <b>Da Nang, Vietnam</b>.</p>
+<p>This is the place where I open source stuff and break things :rofl:</p>
 
 - See my [full about page here](http://vanglevan.io/about).
-- 👯 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning DevOps
-- 💬 &nbsp;Ask me about: Javascript/Typescript or ReactJS/Angular or NodeJS
-- 📫 &nbsp;How to reach me: a1lvvang.0503@gmail.com
-- 👨‍💻 &nbsp;Read more about my projects at [vanglevan.io](https://www.vanglevan.io)
-- 😄 &nbsp;Pronouns: he/him
+- 👯 &nbsp; I’m currently working on something cool :wink:
+- 🌱 &nbsp; I’m currently learning DevOps
+- 💬 &nbsp; Ask me about: Javascript/Typescript, ReactJS/Angular, NodeJS or Java
+- 📫 &nbsp;How to reach me: vanglevan.it@gmail.com
+- 👨‍💻 &nbsp; Read more about my projects at [vanglevan.io](https://www.vanglevan.io)
+- 😄 &nbsp; Pronouns: he/him
 - ⚡ &nbsp;Fun fact: I :heart: :dog: and I'm Madridista :soccer:
 
 <h3>Things I code with</h3>
